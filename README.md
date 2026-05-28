@@ -39,15 +39,6 @@ A full-stack stock trading platform inspired by Zerodha, built using the MERN st
 * `backend` → Trading APIs
 * `server` → Authentication server
 
-## Future Enhancements
-
-* Live stock market APIs
-* AWS Deployment
-* PostgreSQL integration
-* Protected Routes
-* Real-time charts
-* Portfolio analytics
-
 ## Author
 
 Shreya Pal
